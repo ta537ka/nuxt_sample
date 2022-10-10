@@ -17,6 +17,9 @@ $ yarn start
 $ yarn generate
 ```
 
+# generate OpenAPI
+$ yarn generate-client --skip-validate-spec
+
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
 ## Special Directories

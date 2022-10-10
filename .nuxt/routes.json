@@ -1,0 +1,14 @@
+[
+  {
+    "name": "sample",
+    "path": "/sample",
+    "component": "/Users/taka/Desktop/nuxt_sample/pages/sample.vue",
+    "chunkName": "pages/sample"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/taka/Desktop/nuxt_sample/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
